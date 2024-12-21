@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "title": "区块链技术深度解析",
+            "content": "# 区块链技术详解\n\n区块链是一种革命性的分布式技术。\n\n## 关键特征\n- 去中心化\n- 不可篡改\n- 高度透明\n\n```python\n# 区块链基本结构\nclass Block:\n    def __init__(self, index, transactions, timestamp, previous_hash):\n        self.index = index\n        self.transactions = transactions\n        self.timestamp = timestamp\n        self.previous_hash = previous_hash\n```",
+            "excerpt": "全面解读区块链技术的工作原理和未来发展",
+            "author": "区块链专家",
+            "labels": ["区块链", "技术", "加密货币"],
+            "commentCount": 35
+        },
+        {
+            "title": "人工智能的伦理挑战",
+            "content": "# AI 伦理探讨\n\n随着人工智能技术的快速发展，伦理问题变得越来越重要。\n\n## 主要伦理挑战\n1. 算法偏见\n2. 隐私保护\n3. 决策透明性\n\n> AI 技术的发展必须与伦理价值观保持一致。",
+            "excerpt": "探讨人工智能发展中的伦理问题和解决方案",
+            "author": "AI伦理研究员",
+            "labels": ["人工智能", "伦理", "技术"],
+            "commentCount": 28
+        }
+    ]
+}
